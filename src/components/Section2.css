@@ -1,0 +1,21 @@
+.some-bar {
+  margin-left: auto;
+  width: 5px;
+  height: 63vh;
+  border-radius: 2px;
+}
+.progress-container {
+  background: #222;
+  height: 63vh;
+  /* margin-left: auto; */
+}
+
+.progress-bar {
+  width: 5px;
+  background: #a594fd;
+  border-radius: 2px;
+}
+
+.progress-bar:before {
+  height: 1%;
+}
