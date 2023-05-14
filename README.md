@@ -9,5 +9,5 @@ Step 1:
 Step 2:  
 &nbsp;Open terminal in the folder. Enter the below command:
     
-    # $ npm i
+    $ npm i
     $ npm run start
