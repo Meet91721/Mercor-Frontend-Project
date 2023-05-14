@@ -1,4 +1,3 @@
-// import useEffect from "react";
 import ScrollBar from "./ScrollBar";
 import PowerfulAssistant from "./RightComponents/PowerfulAssistant";
 import VisualBullets from "./RightComponents/VisualBullets";
