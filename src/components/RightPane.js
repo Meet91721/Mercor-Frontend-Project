@@ -10,7 +10,7 @@ const RightPane = () => {
     useEffect(() => {
         const progressBar = document.getElementsByClassName("progress-bar")[0];
 
-        const onScroll = (e) => {
+        const onScroll = () => {
             const scroll = document.documentElement.scrollTop - 2 * window.screen.height;
             const height =
                 document.documentElement.scrollHeight - document.documentElement.clientHeight - 2 * window.screen.height;
