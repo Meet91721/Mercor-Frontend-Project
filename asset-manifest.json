@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mercor-Frontend-Project/static/css/main.b58b84cc.css",
-    "main.js": "/Mercor-Frontend-Project/static/js/main.bb1bf010.js",
+    "main.js": "/Mercor-Frontend-Project/static/js/main.e6642e51.js",
     "static/js/787.cda612ba.chunk.js": "/Mercor-Frontend-Project/static/js/787.cda612ba.chunk.js",
     "static/media/expenses.svg": "/Mercor-Frontend-Project/static/media/expenses.a974ad947fb7361bd4a8804d9a9d14d6.svg",
     "static/media/expenses-norm.svg": "/Mercor-Frontend-Project/static/media/expenses-norm.1f0fbc9b331c2a175a77088413252927.svg",
@@ -13,11 +13,11 @@
     "index.html": "/Mercor-Frontend-Project/index.html",
     "static/media/arrow.svg": "/Mercor-Frontend-Project/static/media/arrow.ead6450c33cd41c5d8f53c345b857669.svg",
     "main.b58b84cc.css.map": "/Mercor-Frontend-Project/static/css/main.b58b84cc.css.map",
-    "main.bb1bf010.js.map": "/Mercor-Frontend-Project/static/js/main.bb1bf010.js.map",
+    "main.e6642e51.js.map": "/Mercor-Frontend-Project/static/js/main.e6642e51.js.map",
     "787.cda612ba.chunk.js.map": "/Mercor-Frontend-Project/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b58b84cc.css",
-    "static/js/main.bb1bf010.js"
+    "static/js/main.e6642e51.js"
   ]
 }
